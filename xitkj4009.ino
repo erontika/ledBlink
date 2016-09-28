@@ -5,7 +5,7 @@
    Ini contoh kode Programnya.
  */
 
- int led = 10;//Output pada Digital Pin adalah sebuah LED yang terkoneksi/terhubung dengan Digital pin 9.
+ int led = 10;//Output pada Digital Pin adalah sebuah LED yang terkoneksi/terhubung dengan Digital pin 10.
   
 void setup() 
 {
